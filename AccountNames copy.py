@@ -3,7 +3,7 @@
 # version 2/17/2025
 # used by runScripts.py and ScotiaPicker and CIBCPicker.py
 # modified so I can post it on line
-
+# rename this file to AccountNames.py after you fill in your moneydance account names 
 
 class Scotia:
 # Scotia Bank Bank Nova Scotia BNS
